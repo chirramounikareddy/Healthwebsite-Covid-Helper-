@@ -14,12 +14,6 @@
 - *Tech Stack used:* Flutter, Android, CNN, Keras, Python. 
 - *Installation :* 
 
-Download the apk from apk link:  
-Apk link:
- https://drive.google.com/drive/folders/1VwaeyrlSXO41f55ex8f991h9yu_907U8?usp=sharing
-
-Now install app in your Android Phone.
-
 # Screenshots
 ## Intro-Pages
 ![Screenshot (52)](https://user-images.githubusercontent.com/74871941/125183923-b0124c80-e237-11eb-9ba4-bc3cb3a43302.png)
