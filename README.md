@@ -12,7 +12,7 @@
 	We developed an Android App that can detect the covid-19 . We will use a ResNet-50 model and train it on a COVID-19 Radiography dataset. This dataset has nearly 3000 Chest X-Ray scans which are categorized in twoclasses - Normal and COVID-19. Our objective in this project is to create an image classification model that can predict Chest X-Ray scans that belong to one of the two classes with a reasonably high accuracy.. We are using this data for educational purpose. For this project, we are familiar with programming in Python. We also have a theoretical understanding of Convolutional Neural Networks, and optimization techniques such as gradient descent. This is a hands on, practical project that focuses primarily on implementation, and not on the theory behind Convolutional Neural Networks. We also provided precautions and data statistics of covid 19 in India as well as provided resources for vaccination and telegram bot for availability of slots.
 
 - *Tech Stack used:* Flutter, Android, CNN, Keras, Python. 
-- *Installation :* 
+
 
 # Screenshots
 ## Intro-Pages
