@@ -1,14 +1,7 @@
 # Covid Helper
 ## About 
-- *Name of the team:* Techy Wizards
--  *Number of Members in a Team :* 4
-- *College :* Vishwakarma Institute of Technology, Pune
+- *College :* Kallam haranadhareddy Institute of Technology, Guntur
 -  *Theme of the Project :* Healthcare
--  *Details of all Team Members (Name, College):*
-	1. Aayush Surawar, VIT Pune
-	2. Kirtish Surangalikar, VIT Pune
-	3. Kshitij Patil, VIT Pune
-	4. Shreyas Talwekar, VIT Pune
 
 - *Detailed Explanation of the Idea:*
 	CovidHelper is an application to classify COVID19 and non-COVID through deep learning . In the Covidhelper Android App, there exists a subtle difference in X-ray images of lungs from COVID positive vs COIVID negative patients. We designed a Android App with complete diagnostics that allows users to upload X-ray images and the system then predicts.
